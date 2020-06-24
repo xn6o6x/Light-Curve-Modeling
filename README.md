@@ -3,6 +3,10 @@ title: Light Curve Modeling
 tags: 天體物理討論班
 ---
 
+**[Read on HackMD](https://hackmd.io/@juian/BkrwLpeCI)**
+
+[TOC]
+
 # References
 
 ## Code
